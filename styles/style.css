@@ -310,7 +310,6 @@ ol {
   list-style: none;
 }
 
-/* Кастомный скроллбар */
 .custom-scrollbar::-webkit-scrollbar {
   width: 4px;
 }
